@@ -1,0 +1,14 @@
+body {
+    background-image: url('imagens/fundo2.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+footer {
+    flex-shrink: 0;
+    background-color: rgba(83, 53, 218, 0.23); 
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
